@@ -3,7 +3,7 @@
 ```typescript
 export const davide = {
   intro: "I am a passionate web software developer who daily find solutions to complex problems " + 
-       "with a high focus on developing clean architecture and clean code.",
+         "with a high focus on developing clean architecture and clean code.",
   architectures: ["Domain-driven Design", "Microservices", "MVC", "MVVM"],
   paradigms: ["OOP", "functional", "scripting"],
   fields: ["web applications", "RESTful API", "mobile apps", "PWA", "SPA", "AMP", "web sites", "e-commerce"],
