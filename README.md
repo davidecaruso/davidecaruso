@@ -23,8 +23,7 @@ export const davide = {
 <img align="left" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="40" height="40" alt="JavaScript" title="JavaScript" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" height="40" height="40" alt="HTML5" title="HTML5" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" height="40" height="40" alt="CSS" title="CSS3" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" height="40" height="40" alt="Sass" title="Sass" />
-<br /><br />
+<img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" height="40" height="40" alt="Sass" title="Sass" />
 
 ##### Libraries & Frameworks
 <img align="left" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="40" height="40" alt="GraphQL" title="GraphQL" />
@@ -38,8 +37,7 @@ export const davide = {
 <img align="left" src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" height="40" height="40" alt="Laravel" title="Laravel" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/symfony/symfony-original.svg" height="40" height="40" alt="Symfony" title="Symfony" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/drupal/drupal-original.svg" height="40" height="40" alt="Drupal" title="Drupal" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" height="40" height="40" alt="WordPress" title="WordPress" />
-<br /><br />
+<img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" height="40" height="40" alt="WordPress" title="WordPress" />
 
 ##### Systems & Servers
 <img align="left" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" height="40" height="40" alt="MongoDB" title="MongoDB" />
@@ -54,8 +52,7 @@ export const davide = {
 <img align="left" src="https://devicon.dev/devicon.git/icons/debian/debian-original.svg" height="40" height="40" alt="Debian" title="Debian" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" height="40" height="40" alt="Ubuntu" title="Ubuntu" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" height="40" height="40" alt="MacOS" title="MacOS" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" height="40" height="40" alt="Windows" title="Windows" />
-<br /><br />
+<img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" height="40" height="40" alt="Windows" title="Windows" />
 
 <!--##### Tools
 <img align="left" src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" height="40" height="40" alt="npm" title="npm" />
@@ -65,8 +62,7 @@ export const davide = {
 <img align="left" src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" height="40" height="40" alt="Trello" title="Trello" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg" height="40" height="40" alt="Gimp" title="Gimp" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-line.svg" height="40" height="40" alt="Photoshop" title="Photoshop" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/illustrator/illustrator-line.svg" height="40" height="40" alt="Illustrator" title="Illustrator" />
-<br /><br />-->
+<img src="https://devicon.dev/devicon.git/icons/illustrator/illustrator-line.svg" height="40" height="40" alt="Illustrator" title="Illustrator" />-->
 
 ### Other skills
 - Leadership, mentorship, Lean project management, Agile activities
@@ -78,4 +74,4 @@ export const davide = {
 [<img align="left" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" height="40" height="40" alt="StackOverflow" title="StackOverflow" />](https://stackoverflow.com/users/3612464/davide-caruso)
 [<img align="left" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" height="40" height="40" alt="Twitter" title="Twitter" />](https://twitter.com/davidecaruso93)
 [<img align="left" src="https://devicon.dev/devicon.git/icons/facebook/facebook-original.svg" height="40" height="40" alt="Facebook" title="Facebook" />](https://facebook.com/davidecaruso93)
-[<img align="left" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" height="40" alt="Instagram" title="Instagram" />](https://instagram.com/davidecaruso93)
+[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" height="40" alt="Instagram" title="Instagram" />](https://instagram.com/davidecaruso93)
