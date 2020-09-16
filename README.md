@@ -75,3 +75,6 @@ export const davide = {
 [<img align="left" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" height="40" alt="Twitter" title="Twitter" />](https://twitter.com/davidecaruso93)
 [<img align="left" src="https://devicon.dev/devicon.git/icons/facebook/facebook-original.svg" height="40" alt="Facebook" title="Facebook" />](https://facebook.com/davidecaruso93)
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" alt="Instagram" title="Instagram" />](https://instagram.com/davidecaruso93)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidecaruso&show_icons=true" alt="davidecaruso" />
+<img src="https://komarev.com/ghpvc/?username=davidecaruso" alt="davidecaruso" />
