@@ -1,12 +1,12 @@
 ## Hi, I'm Davide
 
 ```typescript
-export const davide = {
-  intro: "I am a passionate web software developer who daily finds solutions to complex problems " + 
-         "with a high focus on developing clean architecture and clean code.",
-  architectures: ["Domain-driven Design", "Microservices", "MVC", "MVVM"],
-  paradigms: ["OOP", "functional", "scripting"],
-  fields: ["web applications", "RESTful API", "libraries", "SDKs", "mobile apps", "PWA", "SPA", "AMP", "web sites", "e-commerce"],
+export const davidecaruso = {
+  pronouns: "he" | "him",
+  intro: "Passionate software developer with a high focus on developing clean code and clean architecture.",
+  principles: ["SOLID", "KISS", "DRY", "Design Patterns"],
+  architectures: ["Microservices", "DDD", "CQRS", "MVC", "MVVM"],
+  paradigms: ["OOP", "Functional", "Scripting"],
   challenge: "Learn every day something new"
 }
 ```
@@ -18,8 +18,8 @@ export const davide = {
 <img align="left" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" title="NodeJS" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/600px-Deno.svg.png" height="40" alt="Deno" title="Deno" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/go/go-original.svg" height="40" alt="GoLang" title="GoLang" />
-<img align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="Bash" title="Bash" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" height="40" alt="PHP" title="PHP" />
+<img align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="Bash" title="Bash" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS3" />
@@ -33,7 +33,6 @@ export const davide = {
 <img align="left" src="https://devicon.dev/devicon.git/icons/express/express-original.svg" height="40" alt="Express" title="Express" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" height="40" alt="jQuery" title="jQuery" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" title="Bootstrap" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/webpack/webpack-original.svg" height="40" alt="WebPack" title="WebPack" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" title="Laravel" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/symfony/symfony-original.svg" height="40" alt="Symfony" title="Symfony" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/drupal/drupal-original.svg" height="40" alt="Drupal" title="Drupal" />
@@ -47,8 +46,6 @@ export const davide = {
 <img align="left" src="https://devicon.dev/devicon.git/icons/vagrant/vagrant-original.svg" height="40" alt="Vagrant" title="Vagrant" />
 <img align="left" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="40" alt="RabbitMQ" title="RabbitMQ" />
 <img align="left" src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" height="40" alt="Memcached" title="Memcached" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg" height="40" alt="nginx" title="nginx" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/apache/apache-original.svg" height="40" alt="Apache" title="Apache" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/debian/debian-original.svg" height="40" alt="Debian" title="Debian" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu" title="Ubuntu" />
 <img align="left" src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" height="40" alt="MacOS" title="MacOS" />
@@ -65,7 +62,7 @@ export const davide = {
 <img src="https://devicon.dev/devicon.git/icons/illustrator/illustrator-line.svg" height="40" alt="Illustrator" title="Illustrator" />-->
 
 ### Other skills
-- Leadership, mentorship, Lean project management, Agile activities
+- Leadership, mentorship, Agile project management, Lean process improvement
 - SEO optimizations, social media targeting and strategy
 - UX/UI design, graphic design 
 
