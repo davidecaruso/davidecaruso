@@ -3,11 +3,11 @@
 ```typescript
 export const davidecaruso = {
   pronouns: "he" | "him",
-  intro: "Passionate software developer with a high focus on developing clean code and clean architecture.",
+  intro: "Passionate software developer with a high focus on developing clean code and clean architectures.",
   principles: ["SOLID", "KISS", "DRY", "Design Patterns"],
   architectures: ["Microservices", "DDD", "CQRS", "MVC", "MVVM"],
   paradigms: ["OOP", "Functional", "Scripting"],
-  challenge: "Learn every day something new"
+  challenge: "Learn everyday something new"
 }
 ```
 
