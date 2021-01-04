@@ -13,53 +13,53 @@ export const davidecaruso = {
 
 ### Tech skills
 ##### Languages
-<img align="left" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" title="NodeJS" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" title="NodeJS" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/600px-Deno.svg.png" height="40" alt="Deno" title="Deno" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/go/go-original.svg" height="40" alt="GoLang" title="GoLang" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" height="40" alt="PHP" title="PHP" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40" alt="GoLang" title="GoLang" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40" alt="PHP" title="PHP" />
 <img align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="Bash" title="Bash" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS3" />
-<img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" height="40" alt="Sass" title="Sass" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS3" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" alt="Sass" title="Sass" />
 
 ##### Libraries & Frameworks
 <img align="left" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="40" alt="GraphQL" title="GraphQL" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" height="40" alt="React" title="React" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React" title="React" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/nativescript.svg" height="40" alt="NativeScript" title="NativeScript" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/express/express-original.svg" height="40" alt="Express" title="Express" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" height="40" alt="jQuery" title="jQuery" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" title="Bootstrap" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" title="Laravel" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/symfony/symfony-original.svg" height="40" alt="Symfony" title="Symfony" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/drupal/drupal-original.svg" height="40" alt="Drupal" title="Drupal" />
-<img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress" title="WordPress" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" alt="Express" title="Express" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" height="40" alt="jQuery" title="jQuery" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" title="Bootstrap" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" title="Laravel" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" height="40" alt="Symfony" title="Symfony" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg" height="40" alt="Drupal" title="Drupal" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress" title="WordPress" />
 
 ##### Systems & Servers
-<img align="left" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/docker/docker-plain.svg" height="40" alt="Docker" title="Docker" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/vagrant/vagrant-original.svg" height="40" alt="Vagrant" title="Vagrant" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" height="40" alt="Docker" title="Docker" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" height="40" alt="Vagrant" title="Vagrant" />
 <img align="left" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="40" alt="RabbitMQ" title="RabbitMQ" />
 <img align="left" src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" height="40" alt="Memcached" title="Memcached" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/debian/debian-original.svg" height="40" alt="Debian" title="Debian" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu" title="Ubuntu" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" height="40" alt="MacOS" title="MacOS" />
-<img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" height="40" alt="Windows" title="Windows" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="40" alt="Debian" title="Debian" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu" title="Ubuntu" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="40" alt="MacOS" title="MacOS" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="Windows" title="Windows" />
 
 <!--##### Tools
-<img align="left" src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" title="npm" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/bower/bower-original.svg" height="40" alt="Bower" title="Bower" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" height="40" alt="yarn" title="yarn" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" title="npm" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bower/bower-original.svg" height="40" alt="Bower" title="Bower" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" height="40" alt="yarn" title="yarn" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/composer.svg" height="40" alt="yarn" title="Composer" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" height="40" alt="Trello" title="Trello" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg" height="40" alt="Gimp" title="Gimp" />
-<img align="left" src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-line.svg" height="40" alt="Photoshop" title="Photoshop" />
-<img src="https://devicon.dev/devicon.git/icons/illustrator/illustrator-line.svg" height="40" alt="Illustrator" title="Illustrator" />-->
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" height="40" alt="Trello" title="Trello" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" height="40" alt="Gimp" title="Gimp" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40" alt="Photoshop" title="Photoshop" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" height="40" alt="Illustrator" title="Illustrator" />-->
 
 ### Other skills
 - Leadership, mentorship, Agile project management, Lean process improvement
@@ -67,10 +67,10 @@ export const davidecaruso = {
 - UX/UI design, graphic design 
 
 ### Follow me on
-[<img align="left" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" title="LinkedIn" />](https://linkedin.com/in/davidecaruso93)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" title="LinkedIn" />](https://linkedin.com/in/davidecaruso93)
 [<img align="left" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" height="40" alt="StackOverflow" title="StackOverflow" />](https://stackoverflow.com/users/3612464/davide-caruso)
-[<img align="left" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" height="40" alt="Twitter" title="Twitter" />](https://twitter.com/davidecaruso93)
-[<img align="left" src="https://devicon.dev/devicon.git/icons/facebook/facebook-original.svg" height="40" alt="Facebook" title="Facebook" />](https://facebook.com/davidecaruso93)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="40" alt="Twitter" title="Twitter" />](https://twitter.com/davidecaruso93)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" height="40" alt="Facebook" title="Facebook" />](https://facebook.com/davidecaruso93)
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" alt="Instagram" title="Instagram" />](https://instagram.com/davidecaruso93)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidecaruso&show_icons=true" alt="davidecaruso" />
