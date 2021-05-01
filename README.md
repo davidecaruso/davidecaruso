@@ -1,18 +1,32 @@
 ## Hi, I'm Davide
 
-```typescript
+```bash
+$ davidecaruso --help
+
+Usage:  davidecaruso [OPTIONS]
+
+Options:
+  -a, --architectures   Microservices, Domain-Driven Design, CQRS, MVC, MVVM
+  -c, --challenges      Learn everyday something new, develop clean code, design clean architectures
+  -p, --paradigms       OOP, Functional, Scripting
+  -P, --pronouns        He/him
+  -s, --standards       SOLID, KISS, DRY, Design Patterns
+  -v, --version         Latest
+```
+
+<!--```typescript
 export const davidecaruso = {
   pronouns: "he" | "him",
-  intro: "Passionate software developer with a high focus on developing clean code and clean architectures.",
+  intro: "Passionate full-stack developer with the focus on developing clean code and clean architectures",
   principles: ["SOLID", "KISS", "DRY", "Design Patterns"],
   architectures: ["Microservices", "DDD", "CQRS", "MVC", "MVVM"],
   paradigms: ["OOP", "Functional", "Scripting"],
   challenge: "Learn everyday something new"
 }
-```
+```-->
 
-### Tech skills
-##### Languages
+### Languages
+
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" title="NodeJS" />
@@ -25,7 +39,8 @@ export const davidecaruso = {
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS3" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" alt="Sass" title="Sass" />
 
-##### Libraries & Frameworks
+### Libraries
+
 <img align="left" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="40" alt="GraphQL" title="GraphQL" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React" title="React" />
@@ -38,7 +53,8 @@ export const davidecaruso = {
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg" height="40" alt="Drupal" title="Drupal" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress" title="WordPress" />
 
-##### Systems & Servers
+### Systems
+
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
@@ -51,27 +67,5 @@ export const davidecaruso = {
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="40" alt="MacOS" title="MacOS" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="Windows" title="Windows" />
 
-<!--##### Tools
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" title="npm" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bower/bower-original.svg" height="40" alt="Bower" title="Bower" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" height="40" alt="yarn" title="yarn" />
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/composer.svg" height="40" alt="yarn" title="Composer" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" height="40" alt="Trello" title="Trello" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" height="40" alt="Gimp" title="Gimp" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40" alt="Photoshop" title="Photoshop" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" height="40" alt="Illustrator" title="Illustrator" />-->
-
-### Other skills
-- Leadership, mentorship, Agile project management, Lean process improvement
-- SEO optimizations, social media targeting and strategy
-- UX/UI design, graphic design 
-
-### Follow me on
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" title="LinkedIn" />](https://linkedin.com/in/davidecaruso93)
-[<img align="left" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" height="40" alt="StackOverflow" title="StackOverflow" />](https://stackoverflow.com/users/3612464/davide-caruso)
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="40" alt="Twitter" title="Twitter" />](https://twitter.com/davidecaruso93)
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" height="40" alt="Facebook" title="Facebook" />](https://facebook.com/davidecaruso93)
-[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" alt="Instagram" title="Instagram" />](https://instagram.com/davidecaruso93)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidecaruso&show_icons=true" alt="davidecaruso" />
-<img src="https://komarev.com/ghpvc/?username=davidecaruso" alt="davidecaruso" />
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/davidecaruso/personal-stack)
+[![Profile views](https://komarev.com/ghpvc/?username=davidecaruso)](https://komarev.com/ghpvc/?username=davidecaruso)
