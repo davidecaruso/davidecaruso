@@ -10,7 +10,7 @@ Options:
   -c, --challenges      Learn everyday something new, develop clean code, design clean architectures
   -p, --paradigms       OOP, Functional, Scripting
   -P, --pronouns        He/him
-  -s, --standards       SOLID, KISS, DRY, Design Patterns
+  -s, --standards       Design Patterns, SOLID Principles, RESTFul, KISS, DRY, BEM
   -v, --version         Latest
 ```
 
