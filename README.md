@@ -6,31 +6,20 @@ $ davidecaruso --help
 Usage:  davidecaruso [OPTIONS]
 
 Options:
-  -a, --architectures   Microservices, Domain-Driven Design, CQRS, MVC, MVVM
-  -c, --challenges      Learn everyday something new, develop clean code, design clean architectures
-  -p, --paradigms       OOP, Functional, Scripting
-  -P, --pronouns        He/him
+  -a, --architectures   CQRS, DDD, Clean Architecture, Microservices, MVC, MVVM
+  -c, --challenges      Learn new stuff everyday, discover the world
+  -m, --methodologies   Agile, Lean, Kaizen
+  -p, --paradigms       Functional programming, Object-oriented programming, Scripting
   -s, --standards       Design Patterns, SOLID Principles, RESTFul, KISS, DRY, BEM
   -v, --version         Latest
 ```
 
-<!--```typescript
-export const davidecaruso = {
-  pronouns: "he" | "him",
-  intro: "Passionate full-stack developer with the focus on developing clean code and clean architectures",
-  principles: ["SOLID", "KISS", "DRY", "Design Patterns"],
-  architectures: ["Microservices", "DDD", "CQRS", "MVC", "MVVM"],
-  paradigms: ["OOP", "Functional", "Scripting"],
-  challenge: "Learn everyday something new"
-}
-```-->
-
 ### Languages
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" title="NodeJS" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/600px-Deno.svg.png" height="40" alt="Deno" title="Deno" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40" alt="GoLang" title="GoLang" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40" alt="PHP" title="PHP" />
 <img align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="Bash" title="Bash" />
@@ -67,5 +56,5 @@ export const davidecaruso = {
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="40" alt="MacOS" title="MacOS" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="Windows" title="Windows" />
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/davidecaruso/personal-stack)
 [![Profile views](https://komarev.com/ghpvc/?username=davidecaruso)](https://komarev.com/ghpvc/?username=davidecaruso)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/davidecaruso/personal-stack)
