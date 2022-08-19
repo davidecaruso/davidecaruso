@@ -10,7 +10,7 @@ Options:
   -c, --challenges      Learn new stuff everyday, discover the world
   -m, --methodologies   Agile, Lean, Kaizen
   -p, --paradigms       Functional programming, Object-oriented programming, Scripting
-  -s, --standards       Design Patterns, SOLID Principles, RESTFul, KISS, DRY, BEM
+  -s, --standards       Design Patterns, SOLID Principles, RESTful, KISS, DRY, BEM
   -v, --version         Latest
 ```
 
