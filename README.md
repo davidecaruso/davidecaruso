@@ -30,6 +30,7 @@ Options:
 
 ### Technologies
 
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL" title="GraphQL" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/nativescript.svg" height="40" alt="NativeScript" title="NativeScript" />
