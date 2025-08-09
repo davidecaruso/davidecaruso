@@ -70,7 +70,7 @@ Options:
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="40" alt="Insomnia" title="Insomnia" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" alt="Swagger" title="Swagger" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="40" alt="Jira" title="Jira" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="40" alt="Trello" title="Trello" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="40" alt="Trello" title="Trello" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=davidecaruso)](https://komarev.com/ghpvc/?username=davidecaruso)
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/davidecaruso/personal-stack)
