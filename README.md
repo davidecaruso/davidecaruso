@@ -44,7 +44,6 @@ Options:
 ### Systems
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab CI" title="GitLab CI" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original.svg" height="40" alt="Vagrant" title="Vagrant" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="40" alt="Kubernetes" title="Kubernetes" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="40" alt="Apache" title="Apache" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" alt="Nginx" title="Nginx" />
@@ -60,9 +59,9 @@ Options:
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" height="40" alt="Sentry" title="Sentry" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" height="40" alt="Datadog" title="Datadog" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/newrelic/newrelic-original.svg" height="40" alt="NewRelic" title="NewRelic" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="40" alt="Grafana" title="Grafana" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" height="40" alt="Kibana" title="Kibana" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/newrelic/newrelic-original.svg" height="40" alt="NewRelic" title="NewRelic" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" height="40" alt="Kibana" title="Kibana" />
 
 ### Tools
 
@@ -70,8 +69,9 @@ Options:
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="40" alt="Vim" title="Vim" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="40" alt="Insomnia" title="Insomnia" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" alt="Swagger" title="Swagger" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="40" alt="Trello" title="Trello" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="40" alt="Jira" title="Jira" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="40" alt="Trello" title="Trello" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" height="40" alt="Confluence" title="Confluence" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=davidecaruso)](https://komarev.com/ghpvc/?username=davidecaruso)
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/davidecaruso/personal-stack)
